@@ -1,0 +1,12 @@
+int(input("enter x value"))
+y=int(input("enter y value"))
+z=int(input("enter z value"))
+if (x == y) and (x != z):
+	print("x and y are equal")
+elif(x == z )and(x !=y):
+		print("x and y are equal")
+elif(y == z)and(y != x):
+			print("y and z are equal")
+		
+else:
+			print("x,y,z are not

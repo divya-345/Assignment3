@@ -1,0 +1,7 @@
+x=input("enter x value:")
+y=input("enter y value:")
+if x==y:
+       print("Both are equal")
+else:
+	print("Given values are not eual")
+© 
